@@ -2,6 +2,8 @@
 
 基于QT开发的串口调试助手
 
+# <img title="test" src="imgs/test.png" alt="loading-ag-211" style="zoom:67%;">
+
 # 《RobotLab 专用串口调试助手》软件介绍
 
 ## 一、软件基本信息
